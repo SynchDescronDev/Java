@@ -37,6 +37,11 @@ public class Main {
         }else{
             System.out.println(year + " is not a leap year");
         }
+
+
+        int time = 20;
+        String val = (time < 25) ? "True statement" : "False Statement"; // ternary operator
+        System.out.println(val);
         
     }
 }
