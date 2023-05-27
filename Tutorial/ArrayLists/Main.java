@@ -25,6 +25,7 @@ public class Main {
         arrayList.clear();
 
         System.out.println(arrayList);
+        
 
         // can be implemented to wrapper classes as well.
 
