@@ -1,4 +1,4 @@
-package Programs;
+package Programs.PasswordGenerator;
 
 import java.util.Random;
 import java.util.Scanner;
